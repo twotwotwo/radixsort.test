@@ -1,3 +1,5 @@
+**This has moved:** See http://github.com/twotwotwo/sorts/
+
 # [radixsort](http://godoc.org/github.com/twotwotwo/radixsort.test)
 
 [radixsort](http://godoc.org/github.com/twotwotwo/radixsort.test) provides
